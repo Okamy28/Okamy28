@@ -1,6 +1,7 @@
 ### Olá, meu nome é Heloís Racibi! 👋
 
-Esse é meu perfil profissional, onde deposito a maioria de meus projeto e trabalhos realizados, tanto por hooby quanto para tarefas da faculdade.
+
+Esse é meu perfil profissional, onde deposito a maioria de meus projetos e trabalhos realizados, tanto por hooby quanto para tarefas da faculdade.
 
 Por falar nisso, estudo Análise e Desenvolvimento de Sistemas, e tenho grande interesse na area de desenvolvimento back-end e seguança da informação.
 Tenho conhecimento nas linguagens JavaScript, C++, HTML, e atualmente estou me aprofundando em Python.
